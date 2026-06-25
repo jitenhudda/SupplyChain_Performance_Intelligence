@@ -166,10 +166,10 @@ CodeAlpha_SupplyChain_Performance_Intelligence/
 ├── app.py
 ├── dashboard_data.csv
 ├── DataCoSupplyChainDataset.csv
-├── requirements.txt
+├── Requirements.txt
 ├── README.md
-├── License
-└── dashboard_screenshot.png
+├── LICENSE
+└── Dashboard_Screenshot.png
 ```
 
 ---
