@@ -168,6 +168,7 @@ CodeAlpha_SupplyChain_Performance_Intelligence/
 ├── DataCoSupplyChainDataset.csv
 ├── requirements.txt
 ├── README.md
+├── License
 └── dashboard_screenshot.png
 ```
 
@@ -233,7 +234,8 @@ Add your dashboard screenshot here.
 
 Example:
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](<img width="1879" height="905" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/e03db74a-20e1-40fa-8db7-976e6889434f" />
+)
 
 ---
 
